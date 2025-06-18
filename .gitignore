@@ -1,5 +1,7 @@
 env
 scrapper.egg-info
+constants
+cloud_io
 __pycache__
 # Byte-compiled / optimized / DLL files
 __pycache__/
